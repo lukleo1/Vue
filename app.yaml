@@ -1,5 +1,8 @@
-runtime: nodejs8
+# [START runtime]
+runtime: nodejs
 env: flex
+# [END runtime]
+
 
 handlers:
 - url: /
